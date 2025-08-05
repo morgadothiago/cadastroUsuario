@@ -31,3 +31,11 @@
 ![alt](./api/assets/img1.png)
 
 **Imagem a cima mostra como fica o package.json ☝️**
+
+### MÉTODOS HTTP
+
+- **GET**: Busca um ou vários registros do banco de dados.
+- **POST**: Insere um novo registro no banco de dados.
+- **PATCH**: Atualiza parcialmente um registro existente no banco de dados.
+- **PUT**: Atualiza totalmente um registro existente no banco de dados.
+- **DELETE**: Remove um ou mais registros
